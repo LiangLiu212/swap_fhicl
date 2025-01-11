@@ -1,0 +1,5 @@
+# Swap fhicls
+
+Using script to pick the correct fhicls for uboone grid jobs
+
+These scripts work with `project.py`
